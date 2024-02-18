@@ -19,5 +19,5 @@ Our findings indicate that models like XGBoost and LightGBM, which account for n
 
 
 ## Project Report
-[Report](report\dsf-final-project-report.pdf)
+[Report](/report/dsf-final-project-report.pdf)
 
