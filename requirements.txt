@@ -1,0 +1,12 @@
+pandas
+meteostat
+requests-cache 
+retry-requests 
+numpy 
+airportsdata
+matplotlib
+basemap
+joblib
+scikit-learn
+geopandas
+seaborn
